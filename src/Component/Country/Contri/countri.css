@@ -5,7 +5,15 @@
     background-color: rgb(61, 61, 61);
 }
 
-.style-flag {
-    display: flex;
-    justify-items: center;
+.country-visited {
+    background-color: salmon;
+}
+
+.countri2 {
+    background-color: rgb(112, 112, 112);
+}
+
+.flag {
+    display: block;
+    margin: 0 auto;
 }
