@@ -1,0 +1,11 @@
+.countri {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(61, 61, 61);
+}
+
+.style-flag {
+    display: flex;
+    justify-items: center;
+}
